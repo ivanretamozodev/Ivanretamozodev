@@ -1,4 +1,4 @@
-<h3 align="center">Hola y Bienvenido  a mI Github 👋<br>me llamo ivan retamozo,desarrollador FullStack, de buenos aires,argentina.<br>soy un apasionado por las tecnologias</h3>
+<h3 align="center">Hola y Bienvenido  a mi Github 👋<br>me llamo Ivan Retamozo,soy desarrollador web FullStack MEAN (MongoDB,ExpressJS,Angular,NodeJS), de buenos aires,argentina.<br>soy un apasionado por las tecnologias</h3>
 
 ###
 
